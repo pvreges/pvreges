@@ -1,6 +1,11 @@
+<div align="center">
+  
 # 👋 Hello, I'm Paulo Vitor!
-
-![nonono](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFxNWFvbmowNjJ3cXc0a2NxZ3RnYmZzeXZlbnBmbXlxMW5wbjgyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nP4g8U2IhVL5nLlBm8/giphy.gif)
+  
+</div>
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5qYWhvbDJudjh6MWplanN2M2g3bmJzaHV6eTljMWszOWZnMHJreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEaXdIxc4dmqFTH3uq/giphy.gif" width="300">
+</div>
 
 ## 💻 About Me
 
@@ -12,7 +17,7 @@ I use this profile to share projects, exercises, studies, and experiments develo
 
 ## 🚀 Goals
 
-- 📚 Learn new technologies
+- 📚 Learn new technologies                    
 - 💡 Develop practical projects
 - 📈 Continuously improve as a developer
 - 🤝 Share knowledge and experiences
