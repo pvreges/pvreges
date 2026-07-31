@@ -1,62 +1,54 @@
+# 👋 Hello, I'm Paulo Vitor!
 
-# 👋 Olá, eu sou Paulo Vitor!
-## 👋 Hello, i am Paulo Vitor!
+## 💻 About Me
 
-## 💻 Sobre mim
-### 💻 About me
+I am an **Information Systems** student interested in technology, programming, data analysis, and developing solutions that make people's daily lives easier.
 
-Sou estudante de **Sistemas de Informação** e tenho interesse em tecnologia, programação, análise de dados e desenvolvimento de soluções que possam facilitar o dia a dia das pessoas. / I am an Information Systems student interested in technology, programming, data analysis, and developing solutions that can make people's daily lives easier.
-
-Atualmente utilizo este perfil para publicar projetos, exercícios, estudos e experimentos desenvolvidos durante minha jornada de aprendizado. / I currently use this profile to publish projects, exercises, studies, and experiments developed during my learning journey.
+I use this profile to share projects, exercises, studies, and experiments developed throughout my learning journey.
 
 ---
 
-## 🚀 Objetivos
-### 🚀 Goals
+## 🚀 Goals
 
-- 📚 Aprender novas tecnologias / Learning new technologies
-- 💡 Desenvolver projetos práticos / Develop practices projects
-- 📈 Evoluir constantemente como desenvolvedor / Constantly evolve as a developer
-- 🤝 Compartilhar conhecimento e experiências / Sharing knowledge and experiences
+- 📚 Learn new technologies
+- 💡 Develop practical projects
+- 📈 Continuously improve as a developer
+- 🤝 Share knowledge and experiences
 
 ---
 
-## 🛠️ Tecnologias que estou estudando
-### 🛠️ Technologies I am studying
+## 🛠️ Technologies I'm Studying
 
 - Python
-- GitHub
+- Git & GitHub
 - C++
 - HTML
-- Javascript
+- JavaScript
 
 ---
 
-## 📂 Repositórios
+## 📂 Repositories
 
-Aqui você encontrará projetos relacionados a:
 Here you will find projects related to:
 
-- Desenvolvimento Web / Web develop
-- Programação / Programming
-- Banco de Dados / Database
-- Estudos da faculdade / University studies
-- Projetos pessoais / Personal projects
+- Web Development
+- Programming
+- Databases
+- University Studies
+- Personal Projects
 
 ---
 
-## 📫 Contato
-### 📫 Contact
+## 📫 Contact
+
 - GitHub: https://github.com/pvreges
 
 ---
 
-## ✨ Frase
-### ✨ Sentence
+## ✨ Quote
 
-> "Better than yesterday and bad than tomorrow."
+> *"Better than yesterday, worse than tomorrow."*
 
 ---
 
-Obrigado por visitar meu perfil! 😄
-Thanks for visit my profile! 😄
+Thanks for visiting my profile! 😄
